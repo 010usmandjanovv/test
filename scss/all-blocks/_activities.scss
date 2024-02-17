@@ -1,0 +1,23 @@
+.activities {
+    width: 1200px;
+    height: 384px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 100px;
+    .activities-box {
+        h3 {
+            font-family: "Montserrat", sans-serif;
+            font-size: 36px;
+            font-weight: 600;
+            line-height: 150%;
+        }
+        p {
+            width: 550px;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 150%;
+            color:  #848fac;
+        }
+    }
+}
